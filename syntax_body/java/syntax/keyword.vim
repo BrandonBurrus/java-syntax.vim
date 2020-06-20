@@ -14,7 +14,7 @@ sy keyword javaAccessKeyword    public protected private
 sy keyword javaException        throw
 sy keyword javaException        try catch finally
 "-----------------------------------------------------------------------------------------
-sy keyword javaPreProc          package
+sy keyword javaPackage          package
 "-----------------------------------------------------------------------------------------
 sy keyword javaType             void
 sy keyword javaType             char

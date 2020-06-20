@@ -20,6 +20,7 @@ hi def link javaKeyword         Keyword
 hi def link javaException       Exception
 "-------------------------------------------------
 hi def link javaPreProc         PreProc
+hi def link javaPackage         PreProc
 hi def link javaInclude         Include
 hi def link javaDefine          Define
 hi def link javaMacro           Macro
