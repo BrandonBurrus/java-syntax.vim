@@ -17,6 +17,7 @@ hi def link javaRepeat          Repeat
 hi def link javaLabel           Label
 hi def link javaOperator        Operator
 hi def link javaKeyword         Keyword
+hi def link javaNew             Keyword
 hi def link javaException       Exception
 "-------------------------------------------------
 hi def link javaPreProc         PreProc

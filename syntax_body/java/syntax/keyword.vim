@@ -8,7 +8,7 @@ sy keyword javaStatement        break continue
 sy keyword javaConditional      if else switch
 sy keyword javaRepeat           for while do
 sy keyword javaLabel            case default
-sy keyword javaOperator         new                 skipwhite skipempty nextgroup=javaType
+sy keyword javaNew              new                 skipwhite skipempty nextgroup=javaType
 sy keyword javaOperator         instanceof          skipwhite skipempty nextgroup=javaType
 sy keyword javaAccessKeyword    public protected private
 sy keyword javaException        throw
